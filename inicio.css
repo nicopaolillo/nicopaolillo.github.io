@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+   
+}
+nav li{
+    text-align:left;
+    list-style: none;
+    display: block;
+    font-size: 30px;
+    padding: 5px;
+    font-family: 'Courgette', cursive;
+    background-color: aquamarine;
+    margin-right: 1020px;
+    border-right: 5px solid;
+    border-left: 5px solid;
+    box-shadow: 4px 4px 5px black;
+}
+body{
+background: url(fondoinicio4.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+body section{
+    font-size: 20px;
+    margin:20px;
+    font-family: 'Courgette', cursive;
+    width:840px;
+    float:left;
+}
+ul :hover{
+    color:#ce7d35;
+    flex-wrap: wrap;
+}
+aside{
+    float: left;
+}
+h1{
+    font-size: 80px;;
+    font-family: 'Courgette', cursive;
+    border: 5px solid;
+    background-color: aquamarine;
+    box-shadow: 4px 4px 5px black;
+}ack
+footer{
+    font-size: 20px;
+    font-family: 'Courgette', cursive;
+}
+body section p {
+    background-color: aquamarine;
+    border:2px solid;
+    margin-right: 400px;
+}
+footer p{
+    background-color: aquamarine;
+    border:2px solid;
+    margin-left: 850px;
+}
+footer img{
+    margin:60px;
+}
+#nuevo{
+    font-size: 30px;
+    box-shadow: 4px 4px 4px #ce7d35;
+    font-family: 'Courgette', cursive;
+}
+img{
+    border:2px solid black;
+    margin: 4px;
+    transition: all 1s;
+}
+img:hover{
+    box-shadow: 4px 4px 4px #ce7d35;
+    transform: scale(1.4);
+}
+
+
+
+
+
+
+
